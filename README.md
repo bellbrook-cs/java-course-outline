@@ -2,7 +2,7 @@
 
 Textbook: [Blue Pelican Java](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxlbGFzaGlzc2l0ZXxneDo2YTgzNTNmZDUzZmE4Yjc0)
 
-## Unit 1
+## Unit 1: Primitive Types
 
 ### Lesson 1: Hello World
 
