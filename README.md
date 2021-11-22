@@ -4,7 +4,7 @@ Textbook: [Blue Pelican Java](https://docs.google.com/viewer?a=v&pid=sites&srcid
 
 ## Unit 1
 
-### Lesson 1
+### Lesson 1: Hello World
 
 #### LAB: From Me to You
 
@@ -18,7 +18,7 @@ Textbook: [Blue Pelican Java](https://docs.google.com/viewer?a=v&pid=sites&srcid
 - [Solution](https://github.com/bellbrook-cs/solution-java-unit1-traffic-sign)
 - [Student Link](https://repl.it/github/bellbrook-cs/java-unit1-traffic-sign)
 
-### Lesson 2
+### Lesson 2: Variable Types
 
 #### HW: BPJ Lesson 2 Exercises
 
@@ -26,7 +26,7 @@ Textbook: [Blue Pelican Java](https://docs.google.com/viewer?a=v&pid=sites&srcid
 - [Solution](https://github.com/bellbrook-cs/solution-java-unit1-bpj-lesson2-exercises)
 - [Student Link](https://bellbrook-cs.github.io/java-unit1-bpj-lesson2-exercises/)
 
-### Lesson 3
+### Lesson 3: Simple String Operations
 
 #### HW: BPJ Lesson 3 Exercises
 
@@ -52,7 +52,7 @@ Textbook: [Blue Pelican Java](https://docs.google.com/viewer?a=v&pid=sites&srcid
 - [Solution](https://github.com/bellbrook-cs/solution-java-unit1-ntimes)
 - [Student Link](https://repl.it/github/bellbrook-cs/java-unit1-ntimes)
 
-### Lesson 4
+### Lesson 4: Using Numeric Variables
 
 #### HW: BPJ Lesson 4 Exercises
 
@@ -66,7 +66,7 @@ Textbook: [Blue Pelican Java](https://docs.google.com/viewer?a=v&pid=sites&srcid
 - [Solution](https://github.com/bellbrook-cs/solution-java-unit1-cheating-on-your-arithmetic-assignment)
 - [Student Link](https://repl.it/github/bellbrook-cs/java-unit1-cheating-on-your-arithmetic-assignment)
 
-### Lesson 5
+### Lesson 5: Mixed Data Types, Casting, and Constants
 
 #### HW: BPJ Lesson 5 Exercises
 
