@@ -22,9 +22,17 @@ Textbook: [Blue Pelican Java](https://docs.google.com/viewer?a=v&pid=sites&srcid
 
 #### HW: BPJ Lesson 2 Exercises
 
+- [Repository](https://github.com/bellbrook-cs/java-unit1-bpj-lesson2-exercises)
+- [Solution](https://github.com/bellbrook-cs/solution-java-unit1-bpj-lesson2-exercises)
+- [Student Link](https://bellbrook-cs.github.io/java-unit1-bpj-lesson2-exercises/)
+
 ### Lesson 3
 
 #### HW: BPJ Lesson 3 Exercises
+
+- [Repository](https://github.com/bellbrook-cs/java-unit1-bpj-lesson3-exercises)
+- [Solution](https://github.com/bellbrook-cs/solution-java-unit1-bpj-lesson3-exercises)
+- [Student Link](https://bellbrook-cs.github.io/java-unit1-bpj-lesson3-exercises/)
 
 #### LAB: My Favorite Quote
 
@@ -48,6 +56,10 @@ Textbook: [Blue Pelican Java](https://docs.google.com/viewer?a=v&pid=sites&srcid
 
 #### HW: BPJ Lesson 4 Exercises
 
+- [Repository](https://github.com/bellbrook-cs/java-unit1-bpj-lesson4-exercises)
+- [Solution](https://github.com/bellbrook-cs/solution-java-unit1-bpj-lesson4-exercises)
+- [Student Link](https://bellbrook-cs.github.io/java-unit1-bpj-lesson4-exercises/)
+
 #### LAB: Cheating on Your Arithmetic Assignment
 
 - [Repository](https://github.com/bellbrook-cs/java-unit1-cheating-on-your-arithmetic-assignment)
@@ -55,6 +67,12 @@ Textbook: [Blue Pelican Java](https://docs.google.com/viewer?a=v&pid=sites&srcid
 - [Student Link](https://repl.it/github/bellbrook-cs/java-unit1-cheating-on-your-arithmetic-assignment)
 
 ### Lesson 5
+
+#### HW: BPJ Lesson 5 Exercises
+
+- [Repository](https://github.com/bellbrook-cs/java-unit1-bpj-lesson5-exercises)
+- [Solution](https://github.com/bellbrook-cs/solution-java-unit1-bpj-lesson5-exercises)
+- [Student Link](https://bellbrook-cs.github.io/java-unit1-bpj-lesson5-exercises/)
 
 #### LAB: Cube Statistics
 
