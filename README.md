@@ -8,15 +8,15 @@ Textbook: [Blue Pelican Java](https://docs.google.com/viewer?a=v&pid=sites&srcid
 
 #### LAB: From Me to You
 
-- [Repository]()
+- [Repository](https://github.com/bellbrook-cs/java-unit1-from-me-to-you)
 - [Solution]()
-- [Student Link]()
+- [Student Link](https://repl.it/github/bellbrook-cs/java-unit1-from-me-to-you)
 
 #### LAB: Traffic Sign
 
-- [Repository]()
+- [Repository](https://github.com/bellbrook-cs/java-unit1-traffic-sign)
 - [Solution]()
-- [Student Link]()
+- [Student Link](https://repl.it/github/bellbrook-cs/java-unit1-traffic-sign)
 
 ### Lesson 2
 
@@ -28,21 +28,21 @@ Textbook: [Blue Pelican Java](https://docs.google.com/viewer?a=v&pid=sites&srcid
 
 #### LAB: My Favorite Quote
 
-- [Repository]()
+- [Repository](https://github.com/bellbrook-cs/java-unit1-my-favorite-quote)
 - [Solution]()
-- [Student Link]()
+- [Student Link](https://repl.it/github/bellbrook-cs/java-unit1-my-favorite-quote)
 
 #### LAB: Name That Celebrity
 
-- [Repository]()
+- [Repository](https://github.com/bellbrook-cs/java-unit1-name-that-celebrity)
 - [Solution]()
-- [Student Link]()
+- [Student Link](https://repl.it/github/bellbrook-cs/java-unit1-name-that-celebrity)
 
 #### EC: nTimes
 
-- [Repository]()
+- [Repository](https://github.com/bellbrook-cs/java-unit1-ntimes)
 - [Solution]()
-- [Student Link]()
+- [Student Link](https://repl.it/github/bellbrook-cs/java-unit1-ntimes)
 
 ### Lesson 4
 
@@ -50,28 +50,28 @@ Textbook: [Blue Pelican Java](https://docs.google.com/viewer?a=v&pid=sites&srcid
 
 #### LAB: Cheating on Your Arithmetic Assignment
 
-- [Repository]()
+- [Repository](https://github.com/bellbrook-cs/java-unit1-cheating-on-your-arithmetic-assignment)
 - [Solution]()
-- [Student Link]()
+- [Student Link](https://repl.it/github/bellbrook-cs/java-unit1-cheating-on-your-arithmetic-assignment)
 
 ### Lesson 5
 
 #### LAB: Cube Statistics
 
-- [Repository]()
+- [Repository](https://github.com/bellbrook-cs/java-unit1-cube-statistics)
 - [Solution]()
-- [Student Link]()
+- [Student Link](https://repl.it/github/bellbrook-cs/java-unit1-cube-statistics)
 
 #### LAB: Sphere Statistics
 
-- [Repository]()
+- [Repository](https://github.com/bellbrook-cs/java-unit1-sphere-statistics)
 - [Solution]()
-- [Student Link]()
+- [Student Link](https://repl.it/github/bellbrook-cs/java-unit1-sphere-statistics)
 
 #### LAB: Mixed Results
 
-- [Repository]()
+- [Repository](https://github.com/bellbrook-cs/java-unit1-mixed-results)
 - [Solution]()
-- [Student Link]()
+- [Student Link](https://repl.it/github/bellbrook-cs/java-unit1-mixed-results)
 
 ## Unit 2
