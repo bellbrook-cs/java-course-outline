@@ -41,7 +41,7 @@ Textbook: [Blue Pelican Java](https://docs.google.com/viewer?a=v&pid=sites&srcid
 #### EC: nTimes
 
 - [Repository](https://github.com/bellbrook-cs/java-unit1-ntimes)
-- [Solution](https://github.com/solution-bellbrook-cs/java-unit1-ntimes)
+- [Solution](https://github.com/bellbrook-cs/solution-java-unit1-ntimes)
 - [Student Link](https://repl.it/github/bellbrook-cs/java-unit1-ntimes)
 
 ### Lesson 4
