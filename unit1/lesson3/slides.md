@@ -99,7 +99,7 @@ $4 ==> ???????
 
 - Complete the activity described in your repl
   - Click the `Markdown` tab for instructions
-- BPJ Lesson 2 Exercises
+- BPJ Lesson 3 Exercises
 - Complete the labs on google classroom
   - My Favorite Quote
   - Name That Celebrity
